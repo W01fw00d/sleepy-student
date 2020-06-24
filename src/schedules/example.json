@@ -1,0 +1,20 @@
+{
+  "Monday": {
+    "class": "Class 1",
+    "teacher": "Teacher 1",
+    "roomId": "1",
+    "password": "1"
+  },
+  "Tuesday": {
+    "class": "Class 2",
+    "teacher": "Teacher 2",
+    "roomId": "2",
+    "password": "2"
+  },
+  "Wednesday": {
+    "class": "Class 3",
+    "teacher": "Teacher 3",
+    "roomId": "3",
+    "password": "3"
+  }
+}
